@@ -15,6 +15,8 @@ Your job is to write a simulation of the interactions between Bezerkis and Vogon
 are simulated via processes, and synchronization is provided by Semaphores. Hence, the actions of Bezerkis
 and Vogons can be simply modeled as
 
+<div>
+<div class="leftCol">
 ```java
 process Bezerki {
   nap(Btime)
@@ -26,7 +28,9 @@ process Bezerki {
   }
 }
 ```
-
+</div>
+<div class="rightCol">
+</div>
 ```java
 process Vogon {
   nap(Vtime)
@@ -38,6 +42,7 @@ process Vogon {
   }
 }
 ```
+</div>
 
 The parameters for this simulation are
 ```
