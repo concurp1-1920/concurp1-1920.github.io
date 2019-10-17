@@ -7,7 +7,7 @@ with the beings of planet Bezerk (Bezerki) on the moon Magrathea in order to exc
 coming intergalactic summit.
 
 According to the protocol agreed upon by the Bezerkis and the Vogons, a Vogon goes to Magrathea, and
-waits to meet 2 Bezerkis to exchange information before leaving the moon; BEzerkis, on the other hand,
+waits to meet 2 Bezerkis to exchange information before leaving the moon; Bezerkis, on the other hand,
 meet just 1 Vogon before leaving the moon. Either Bezerkis or Vogons leave Magrathea without meeting
 anyone else once they have met the required number of other beings (in fact, they must leave).
 
