@@ -7,8 +7,8 @@ layout: default
 {% assign concurp1_url = "http://concurp1-1920.github.io/slides" %}
 
 ## Organization
-* [**Sylabus**]()
-* [**10 Commandments for Concurrent Programming**]()
+* [**Syllabus**](/Organization/syllabus)
+* [**10 Commandments for Concurrent Programming**](/Organization/commandments)
 
 ## Lectures Slides
 
@@ -21,7 +21,7 @@ layout: default
 * [**Threads and Semaphores in Java**]({{concurp1_url}}/06)
 
 ## Practical Work
-* [**Magrathea**](/tps/Magrathea)
+* [**Magrathea**](/TPs/Magrathea)
 * [**TBD**]()
 * [**TBD**]()
 * [**TBD**]()
