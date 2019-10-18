@@ -5,20 +5,31 @@
 layout: default
 ---
 {% assign concurp1_url = "http://concurp1-1920.github.io/slides" %}
+{% assign ressources = "/assets/ressources" %}
 
 ## Organization
-* [**Syllabus**](/Organization/syllabus)
-* [**10 Commandments for Concurrent Programming**](/Organization/commandments)
+* [**Syllabus**](/Organization/syllabus) [File]({{ressources}}/syllabus.pdf)
+* [**10 Commandments for Concurrent Programming**](/Organization/commandments) [File]({{ressources}}/commandments.pdf)
 
 ## Lectures Slides
 
-* [**Basics**]({{concurp1_url}}/01)
-* [**Shared Variables - TestAndSet**]({{concurp1_url}}/02)
-* [**Semaphores**]({{concurp1_url}}/03)
-* [**Barrier Synchronization - Readers and Writers**]({{concurp1_url}}/04)
+* [**Basics**]({{concurp1_url}}/01) (WIP)
+* [**Shared Variables - TestAndSet**]({{concurp1_url}}/02) (WIP)
+* [**Semaphores**]({{concurp1_url}}/03) (WIP)
+* [**Barrier Synchronization - Readers and Writers**]({{concurp1_url}}/04) (WIP)
 * [**Dining Philosophers**]({{concurp1_url}}/05)
 * [**Threads and Semaphores in Java**]({{concurp1_url}}/06)
-* [**Synchronized - Atomic objects - Locks**]({{concurp1_url}}/07)
+* [**Synchronized - Atomic objects - Locks**]({{concurp1_url}}/07) (WIP)
+
+## Lectures Ressources
+
+* [**Basics**]({{ressources}}/01-basics.pdf)
+* [**Shared Variables**]({{ressources}}/02-shared_variables-TST.pdf)
+* [**Semaphores**]({{ressources}}/03-semaphores.pdf)
+* [**Barrier Synchronization - Readers and Writers**]({{ressources}}/04-Barrier_Readers-and-Writers.pdf)
+* [**Dining Philosophers**]({{ressources}}/05-Dining_Philosophers.pdf)
+* [**Threads and Semaphores in Java**]({{ressources}}/05-java_threads.pdf)
+* [**Synchronized - Atomic objects - Locks**]({{ressources}}/06-synchronized-atomic_objects_locks.pdf) (WIP)
 
 ## Practical Work
 * [**Magrathea**](/TPs/Magrathea)
