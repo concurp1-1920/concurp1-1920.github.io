@@ -46,12 +46,12 @@ process Vogon {
 
 The parameters for this simulation are
 ```
-0) The number of Bezerki processes                                            ( default 43)
-1) Bezerki iterations                                                         ( default 37)
-2) Number of Vogon processes                                                  ( default 41)
-3) Vogon iterations                                                           ( default 17)
-4) number of milliseconds a Bezerki process waits before doing its iterations ( default 0)
-5) number of milliseconds a Vogon process waits before doing its iterations   ( default 0)
+0) The number of Bezerki processes                                            (default 43)
+1) Bezerki iterations                                                         (default 37)
+2) Number of Vogon processes                                                  (default 41)
+3) Vogon iterations                                                           (default 17)
+4) number of milliseconds a Bezerki process waits before doing its iterations (default 0)
+5) number of milliseconds a Vogon process waits before doing its iterations   (default 0)
 ```
 
 Once you're satisfied that your solution works in the general case, take care of terminating your program
