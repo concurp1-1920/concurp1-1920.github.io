@@ -1,8 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
+title: Concurrent Programming 1
 ---
 {% assign concurp1_url = "http://concurp1-1920.github.io/slides" %}
 {% assign ressources = "/assets/ressources" %}
