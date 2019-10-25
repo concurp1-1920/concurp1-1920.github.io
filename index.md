@@ -17,7 +17,7 @@ title: Concurrent Programming 1
 * [**Barrier Synchronization - Readers and Writers**]({{concurp1_url}}/04) (WIP)
 * [**Dining Philosophers**]({{concurp1_url}}/05)
 * [**Threads and Semaphores in Java**]({{concurp1_url}}/06)
-* [**Synchronized - Atomic objects - Locks**]({{concurp1_url}}/07) (WIP)
+* [**Synchronized - Atomic objects - Locks**]({{concurp1_url}}/07)
 
 ## Lectures Ressources
 
