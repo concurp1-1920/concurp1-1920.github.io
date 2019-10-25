@@ -61,3 +61,7 @@ and `bb` are the respective process ids of Vogons and Bezerkis, `jj` and `kk` th
 
 Note: Your program will be invoked via `jrgo` and/or `jrgox` - make sure you test with these commands. You
 must have a class called `Magrathea` in a file called `Magrathea.jr`.
+
+The date and time of submission via **CVS** is :
+- For the class **I1a** : 28.10.2019 at 8:00.
+- For the classes **I1b** and **I1d** : 30.10.2019 at 8:00.
