@@ -64,8 +64,8 @@ properly - in other words, each remaining Vogon and/or Bezerki must finish with 
 finished after jj iterations` / `Bezerki bb has finished after kk iterations` respectively ( `vv`
 and `bb` are the respective process ids of Vogons and Bezerkis, `jj` and `kk` their remaining iterations.
 
-Note: Your program will be invoked via `jrgo` and/or `jrgox` - make sure you test with these commands. You
-must have a class called `Magrathea` in a file called `Magrathea.jr`.
+Note: Your program will be invoked via `java` - make sure you test with these commands. You
+must have a class called `Magrathea` in a file called `Magrathea.java`.
 
 **Note:  Do not forget to run cvs-init-proj before starting the assignment.**
 
