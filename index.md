@@ -31,6 +31,6 @@ title: Concurrent Programming 1
 
 ## Practical Work
 * [**Magrathea**](/TPs/Magrathea)
-* [**TBD**]()
+* [**Magrathea in Java**](/TPs/MagratheaJava)
 * [**TBD**]()
 * [**TBD**]()
