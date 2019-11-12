@@ -20,8 +20,7 @@ process person(( many )) {
     if(deposit probability) {
       balance = monitor.deposit(x);
       print "After a deposit of " + x + ", the balance is " + balance;
-    }
-    else {
+    } else {
       balance = monitor.withdraw(x);
       print "After a withdrawal of " + y + ", the balance is " + balance;
     }
@@ -54,7 +53,7 @@ and are in the following order on the command line.
   deadlock if there are some. In this case, you have to terminate the processes
   properly and **they should print their number of successful iteration**.
 - Your program will be invoked via `jrgo` and `jrgox` -  make sure you test with
-  these commands. You must have a class called Bank in a file called Bank.jr
+  these commands. You must have a class called `Bank` in a file called `Bank.jr`
 
 **Examples of invocation** :
 - `jrgo 100 10 10 0.0 10 10`
