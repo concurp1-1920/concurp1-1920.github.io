@@ -11,7 +11,7 @@ the payments minus the sum of the withdrawals; the balance must not become negat
 
 You have to create a monitor who manages this bank. Two operations are visible
 in order to make payments and withdrawal, which correspond to the interface
-visible by the users. Hence the actions of the bank can be simply modelled as
+visible by the users. Hence the actions of the bank can be simply modeled as
 
 ```java
 process person(( many )) {
@@ -20,8 +20,7 @@ process person(( many )) {
     if(deposit probability) {
       balance = monitor.deposit(x);
       print "After a deposit of " + x + ", the balance is " + balance;
-    }
-    else {
+    } else {
       balance = monitor.withdraw(x);
       print "After a withdrawal of " + y + ", the balance is " + balance;
     }
@@ -32,7 +31,7 @@ process person(( many )) {
 
 Note that it is the person’s process who prints the balance, but the bank can do it too.
 
-Similarly to the previous Tps, all the arguments are optional,
+Similarly to the previous TPs, all the arguments are optional,
 and are in the following order on the command line.
 
 ```
@@ -54,7 +53,7 @@ and are in the following order on the command line.
   deadlock if there are some. In this case, you have to terminate the processes
   properly and **they should print their number of successful iteration**.
 - Your program will be invoked via `jrgo` and `jrgox` -  make sure you test with
-  these commands. You must have a class called Bank in a file called Bank.jr
+  these commands. You must have a class called `Bank` in a file called `Bank.jr`
 
 **Examples of invocation** :
 - `jrgo 100 10 10 0.0 10 10`
