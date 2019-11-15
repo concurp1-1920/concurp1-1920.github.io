@@ -63,7 +63,7 @@ complete revision history. These lines are included in your file in the followin
 The first line in your source file is
 ```java
 
-// $HEADER$
+// $Header$
 
 ```
 </div>
