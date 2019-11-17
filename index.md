@@ -18,6 +18,7 @@ title: Concurrent Programming 1
 * [**Dining Philosophers**]({{concurp1_url}}/05)
 * [**Threads and Semaphores in Java**]({{concurp1_url}}/06)
 * [**Synchronized - Atomic objects - Locks**]({{concurp1_url}}/07)
+* [**Monitors**]({{concurp1_url}}/08)
 
 ## Lectures Ressources
 
@@ -28,6 +29,7 @@ title: Concurrent Programming 1
 * [**Dining Philosophers**]({{ressources}}/05-Dining_Philosophers.pdf)
 * [**Threads and Semaphores in Java**]({{ressources}}/05-java_threads.pdf)
 * [**Synchronized - Atomic objects - Locks**]({{ressources}}/06-synchronized-atomic_objects_locks.pdf) (WIP)
+* [**Monitors**]({{ressources}}/08-monitors.pdf)
 
 ## Practical Work
 * [**Magrathea**](/TPs/Magrathea)
