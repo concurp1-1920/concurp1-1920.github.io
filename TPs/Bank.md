@@ -7,7 +7,7 @@ title: Concurrent Programming 1
 
 Nowadays, some inhabitants of Switzerland are all sharing a unique bank account.
 Each person can make payments and withdrawals. The current balance is the sum of
-the payments minus the sum of the withdrawals; the balance must not become negative.
+the payments minus the sum of the withdrawals; the balance must **not** become negative.
 
 You have to create a monitor who manages this bank. Two operations are visible
 in order to make payments and withdrawal, which correspond to the interface
@@ -29,9 +29,9 @@ process person(( many )) {
 }
 ```
 
-Note that it is the person’s process who prints the balance, but the bank can do it too.
+Note that, here, it is the person’s process who prints the balance, but the bank can do it too.
 
-Similarly to the previous TPs, all the arguments are optional,
+Similarly to the previous TPs, all the arguments are **optional**,
 and are in the following order on the command line.
 
 ```
@@ -49,13 +49,16 @@ and are in the following order on the command line.
 - Since a conditional variable represent a waiting queue of processes, you should **not** represent such a queue by any other classes or structures who implement a waiting queue.
 - All critical sections are encapsulated inside a monitor.
 - You are not allowed to use **busy waiting**.
-- You should use the **signal and continue** signalling method. You have to detect
+- You should use the **signal and continue** signalling method (`-sc` option with `m2jr`). You have to detect
   deadlock if there are some. In this case, you have to terminate the processes
   properly and **they should print their number of successful iteration**.
 - Your program will be invoked via `jrgo` and `jrgox` -  make sure you test with
   these commands. You must have a class called `Bank` in a file called `Bank.jr`
 
 **Examples of invocation** :
+- `jrgo`
+- `jrgo 0`
+- `jrgo 101 43 0`
 - `jrgo 100 10 10 0.0 10 10`
 - `jrgo 101 43 37 0.41 17 29`
 - `jrgo 101 43 37 0.41 17 29 NF`
