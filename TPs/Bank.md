@@ -21,7 +21,7 @@ process person(( many )) {
       balance = monitor.deposit(x);
       print "After a deposit of " + x + ", the balance is " + balance;
     } else {
-      balance = monitor.withdraw(x);
+      balance = monitor.withdraw(y);
       print "After a withdrawal of " + y + ", the balance is " + balance;
     }
   }
