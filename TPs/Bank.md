@@ -49,7 +49,7 @@ and are in the following order on the command line.
 - Since a conditional variable represent a waiting queue of processes, you should **not** represent such a queue by any other classes or structures who implement a waiting queue.
 - All critical sections are encapsulated inside a monitor.
 - You are not allowed to use **busy waiting**.
-- You should use the **signal and continue** signalling method (`-sc` option with `m2jr`). You have to detect
+- You should use the **signal and continue** signaling method (`-sc` option with `m2jr`). You have to detect
   deadlock if there are some. In this case, you have to terminate the processes
   properly and **they should print their number of successful iteration**.
 - Your program will be invoked via `jrgo` and `jrgox` -  make sure you test with
