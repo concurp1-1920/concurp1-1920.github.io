@@ -45,6 +45,8 @@ and are in the following order on the command line.
 ```
 
 **Specifications** :
+- The amount of money a person withdraws or deposits in the bank is a random number between `1` and `maxWithdrawal` and
+  `maxDeposit` respectively.
 - If the bank is fair, then processes can't go ahead and pass any process waiting for the balance to be high enough.
 - Since a conditional variable represent a waiting queue of processes, you should **not** represent such a queue by any other classes or structures who implement a waiting queue.
 - All critical sections are encapsulated inside a monitor.
