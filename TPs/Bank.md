@@ -17,7 +17,7 @@ visible by the users. Hence the actions of the bank can be simply modeled as
 process person(( many )) {
   print "Start person xyz"
   for (iteration) {
-    if(deposit probability) {
+    if(withdrawal probability) {
       balance = monitor.deposit(x);
       print "After a deposit of " + x + ", the balance is " + balance;
     } else {
