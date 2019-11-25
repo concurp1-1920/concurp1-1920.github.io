@@ -30,6 +30,7 @@ title: Concurrent Programming 1
 * [**Threads and Semaphores in Java**]({{ressources}}/05-java_threads.pdf)
 * [**Synchronized - Atomic objects - Locks**]({{ressources}}/06-synchronized-atomic_objects_locks.pdf) (WIP)
 * [**Monitors**]({{ressources}}/08-monitors.pdf)
+* [**Monitors - Synchronization techniques**]({{ressources}}/08-monitors-sync-tech.pdf)
 
 ## Practical Work
 * [**Magrathea**](/TPs/Magrathea)
