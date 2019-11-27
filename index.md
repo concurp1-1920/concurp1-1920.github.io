@@ -19,6 +19,7 @@ title: Concurrent Programming 1
 * [**Threads and Semaphores in Java**]({{concurp1_url}}/06)
 * [**Synchronized - Atomic objects - Locks**]({{concurp1_url}}/07)
 * [**Monitors**]({{concurp1_url}}/08)
+* [**Monitors - Synchronization techniques**]({{concurp1_url}}/09)
 
 ## Lectures Ressources
 
