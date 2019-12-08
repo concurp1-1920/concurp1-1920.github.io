@@ -10,7 +10,6 @@ title: Concurrent Programming 1
 * [**10 Commandments for Concurrent Programming**](/Organization/commandments) [File]({{ressources}}/commandments.pdf)
 
 ## Lectures Slides
-
 * [**Basics**]({{concurp1_url}}/01) (WIP)
 * [**Shared Variables - TestAndSet**]({{concurp1_url}}/02) (WIP)
 * [**Semaphores**]({{concurp1_url}}/03) (WIP)
@@ -23,7 +22,6 @@ title: Concurrent Programming 1
 * [**Monitors in Java - Sleeping barber**]({{concurp1_url}}/10)
 
 ## Lectures Ressources
-
 * [**Basics**]({{ressources}}/01-basics.pdf)
 * [**Shared Variables**]({{ressources}}/02-shared_variables-TST.pdf)
 * [**Semaphores**]({{ressources}}/03-semaphores.pdf)
@@ -33,6 +31,7 @@ title: Concurrent Programming 1
 * [**Synchronized - Atomic objects - Locks**]({{ressources}}/06-synchronized-atomic_objects_locks.pdf) (WIP)
 * [**Monitors**]({{ressources}}/08-monitors.pdf)
 * [**Monitors - Synchronization techniques**]({{ressources}}/08-monitors-sync-tech.pdf)
+* [**Sleeping barber**]({{ressources}}/10-barber_monitor.pdf)
 
 ## Practical Work
 * [**Magrathea**](/TPs/Magrathea)
