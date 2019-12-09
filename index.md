@@ -33,7 +33,7 @@ title: Concurrent Programming 1
 * [**Monitors - Synchronization techniques**]({{ressources}}/08-monitors-sync-tech.pdf)
 * [**Sleeping barber**]({{ressources}}/10-barber_monitor.pdf)
 
-## Practical Work
+## Practical Work - Labs
 * [**Magrathea**](/TPs/Magrathea)
 * [**Magrathea in Java**](/TPs/MagratheaJava)
 * [**Swiss Bank**](/TPs/Bank)
