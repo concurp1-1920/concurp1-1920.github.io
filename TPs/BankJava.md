@@ -3,7 +3,7 @@ layout: default
 title: Concurrent Programming 1
 ---
 
-# TP 3 : The Swiss Bank
+# TP 4 : The Swiss Bank Java
 
 Nowadays, some inhabitants of Switzerland are all sharing a unique bank account.
 Each person can make payments and withdrawals. The current balance is the sum of
@@ -67,5 +67,5 @@ must have a class called `Bank` in a file called `Bank.java`.
 - `java Bank 1000 100 0 1.0 10 1`
 
 The date and time of submission via **CVS** is :
-- For the class **I2a** : 16.12.2019 at 8:00.
-- For the classes **I2b** and **I2d** : 18.12.2019 at 8:00.
+- For the class **I2a** : 20.01.2020 at 8:00.
+- For the classes **I2b** and **I2d** : 22.01.2020 at 8:00.
