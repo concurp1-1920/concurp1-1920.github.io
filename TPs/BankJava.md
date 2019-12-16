@@ -61,11 +61,11 @@ must have a class called `Bank` in a file called `Bank.java`.
 **Examples of invocation** :
 - `java Bank`
 - `java Bank 0`
-- `java Bank 101 43 0`
+- `java Bank 101 43 1`
 - `java Bank 100 10 10 0.0 10 10`
 - `java Bank 101 43 37 0.41 17 29`
 - `java Bank 101 43 37 0.41 17 29 NF`
-- `java Bank 1000 100 0 1.0 10 1`
+- `java Bank 1000 100 1 1.0 10 1`
 
 The date and time of submission via **CVS** is :
 - For the class **I2a** : 20.01.2020 at 8:00.
