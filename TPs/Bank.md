@@ -60,11 +60,11 @@ and are in the following order on the command line.
 **Examples of invocation** :
 - `jrgo`
 - `jrgo 0`
-- `jrgo 101 43 0`
+- `jrgo 101 43 1`
 - `jrgo 100 10 10 0.0 10 10`
 - `jrgo 101 43 37 0.41 17 29`
 - `jrgo 101 43 37 0.41 17 29 NF`
-- `jrgo 1000 100 0 1.0 10 1`
+- `jrgo 1000 100 1 1.0 10 1`
 
 The date and time of submission via **CVS** is :
 - For the class **I2a** : 16.12.2019 at 23:59.
