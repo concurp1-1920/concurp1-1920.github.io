@@ -34,8 +34,8 @@ title: Concurrent Programming 1
 | A12  | Sleeping Barber Problem - Monitors & Java: pre 1.5 versions                                                  |
 | A13  | Lab                                                                                                          |
 | A14  | Monitors – the pthread library                                                                               |
-| A15  | Lab                                                                                                          |
-| A16  | <span style="color:red;">Exam</span>                                                                         |
+| A15  | <span style="color:red;">Exam</span>                                                                         |
+| A16  | Lab			                                                                                      |
 
 ## Grading
 
