@@ -20,6 +20,7 @@ title: Concurrent Programming 1
 * [**Monitors**]({{concurp1_url}}/08)
 * [**Monitors - Synchronization techniques**]({{concurp1_url}}/09)
 * [**Monitors in Java - Sleeping barber**]({{concurp1_url}}/10)
+* [**Pthreads**]({{concurp1_url}}/11)
 
 ## Lectures Ressources
 * [**Basics**]({{ressources}}/01-basics.pdf)
@@ -32,6 +33,7 @@ title: Concurrent Programming 1
 * [**Monitors**]({{ressources}}/08-monitors.pdf)
 * [**Monitors - Synchronization techniques**]({{ressources}}/08-monitors-sync-tech.pdf)
 * [**Sleeping barber**]({{ressources}}/10-barber_monitor.pdf)
+* [**Pthreads**]({{ressources}}/11-pthreads.pdf)
 
 ## Practical Work - Labs
 * [**Magrathea**](/TPs/Magrathea)
