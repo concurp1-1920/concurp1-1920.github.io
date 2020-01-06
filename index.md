@@ -6,7 +6,7 @@ title: Concurrent Programming 1
 {% assign ressources = "/assets/ressources" %}
 
 ## Organization
-* [**Syllabus**](/Organization/syllabus) [File]({{ressources}}/syllabus.pdf)
+* [**Syllabus**](/Organization/syllabus) [File]({{ressources}}/syllabus_v1.3.pdf)
 * [**10 Commandments for Concurrent Programming**](/Organization/commandments) [File]({{ressources}}/commandments.pdf)
 
 ## Lectures Slides
