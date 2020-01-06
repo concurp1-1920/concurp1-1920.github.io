@@ -68,5 +68,5 @@ must have a class called `Bank` in a file called `Bank.java`.
 - `java Bank 1000 100 1 1.0 10 1`
 
 The date and time of submission via **CVS** is :
-- For the class **I2a** : 20.01.2020 at 8:00.
+- For the class **I2a** : 24.01.2020 at 8:00.
 - For the classes **I2b** and **I2d** : 22.01.2020 at 8:00.
