@@ -45,5 +45,5 @@ title: Concurrent Programming 2
 The grade will be computed as follows (right-click on the formula to zoom):
 
 $$
-\frac{exam_{oral} + \frac{\frac{exam_1 + exam_2}{2} + \frac{\sum^n lab}{n}}{2}}{}
+\frac{\frac{exam_1 + exam_2}{2} + \frac{\sum^n lab}{n}}{2}
 $$
