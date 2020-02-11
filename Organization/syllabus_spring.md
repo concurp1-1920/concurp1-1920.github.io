@@ -27,17 +27,39 @@ title: Concurrent Programming 2
 | P4   | Active  Monitors |
 | P5   | Broadcast Algorithms – distributed semaphores / logical clocks and event ordering     |
 | P6   | Heartbeat/Probe-Echo/Token passing Algorithms    |
-| P7   | <span style="color:red;">Exam</span>     |
+| P7   | <span style="color:red;">**Exam**</span>     |
 | P8   | Synchronous message passing    |
 | P9   | Rendez-vous   |
 | P10  | Rendez-vous   |
 | P11  | Inheritance and exceptions   |
 | P12  | <span style="color:green;">Lab</span>  |
-| P13  | <span style="background-color:yellow;">No class - this week changes from semester to semester, depending on holidays and class schedule.  Also note that depending on the schedule, a class might be given on a different day one week of the semester if it falls regularly on a Thursday or Friday.</span> |
+| P13  | <span style="background-color:yellow;color:red">*No class - this week changes from semester to semester, depending on holidays and class schedule.  Also note that depending on the schedule, a class might be given on a different day one week of the semester if it falls regularly on a Thursday or Friday.*</span> |
 | P14  | Message passing with Java |
 | P15  | Remote procedure call with Java   |
 | P16  | Remote procedure call with Java  |
-| P17  | <span style="color:red;">Exam</span>    |
+| P17  | <span style="color:red;">**Exam**</span>    |
+
+## Tentative Plan for class I2b/I2d
+
+| Week | Subject                                                                                                      |
+| ---- | ------------------------------------------------------------------------------------------------------------ |
+| P1   | Op methods - Capabilities  |
+| P2   | <span style="color:green;">Lab</span>  |
+| P3   | Asynchronous message passing - Clients and servers   |
+| P4   | Active  Monitors |
+| P5   | Broadcast Algorithms – distributed semaphores / logical clocks and event ordering     |
+| P6   | Heartbeat/Probe-Echo/Token passing Algorithms    |
+| P7   | <span style="color:red;">**Exam**</span>     |
+| P8   | Synchronous message passing    |
+| P9   | Rendez-vous   |
+| P10  | Rendez-vous   |
+| P11  | Inheritance and exceptions   |
+| P12  | <span style="color:green;">Lab</span>  |
+| P13  | <span style="background-color:yellow;color:red">*! Class will be on Tuesday exceptionally !*</span><br>Message passing with Java |
+| P14  | Remote procedure call with Java |
+| P15  | Remote procedure call with Java  |
+| P16  | <span style="background-color:yellow;color:red">*! No class - Feast of Corpus Cristi* !</span>  |
+| P17  | <span style="color:red;">**Exam**</span>    |
 
 ## Grading
 
