@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Concurrent Programming 1
+title: Concurrent Programming 1 & 2
 ---
 {% assign concurp1_url = "http://concurp1-1920.github.io/slides" %}
 {% assign concurp2_url = "http://concurp1-1920.github.io/slides_spring" %}
