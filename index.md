@@ -13,7 +13,9 @@ title: Concurrent Programming 1 & 2
 * [**10 Commandments for Concurrent Programming**](/Organization/commandments) [File]({{ressources}}/commandments.pdf)
 
 ## Lectures Slides
+
 <details>
+
 <summary>Winter semester</summary>
 
 * [**Basics**]({{concurp1_url}}/01) (WIP)
@@ -27,15 +29,21 @@ title: Concurrent Programming 1 & 2
 * [**Monitors - Synchronization techniques**]({{concurp1_url}}/09)
 * [**Monitors in Java - Sleeping barber**]({{concurp1_url}}/10)
 * [**Pthreads**]({{concurp1_url}}/11)
+
 </details>
+
 <details open>
+
 <summary>Spring semester</summary>
 
 * [**Ops and Caps**]({{ressources_spring}}/Ops_and_Capabilities)
+
 </details>
 
 ## Lectures Ressources
+
 <details>
+
 <summary>Winter semester</summary>
 
 * [**Basics**]({{ressources}}/01-basics.pdf)
@@ -51,10 +59,13 @@ title: Concurrent Programming 1 & 2
 * [**Pthreads**]({{ressources}}/11-pthreads.pdf)
 
 </details>
+
 <details open>
+
 <summary>Spring semester</summary>
 
 * [**Ops and caps**]({{ressources_spring}}/040-ops-and-Capabilities.pdf)
+
 </details>
 
 ## Practical Work - Labs
