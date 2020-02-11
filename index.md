@@ -5,6 +5,7 @@ title: Concurrent Programming 1 & 2
 {% assign concurp1_url = "http://concurp1-1920.github.io/slides" %}
 {% assign concurp2_url = "http://concurp1-1920.github.io/slides_spring" %}
 {% assign ressources = "/assets/ressources" %}
+{% assign ressources_spring = "/assets/ressources/spring" %}
 
 ## Organization
 * [**Syllabus**](/Organization/syllabus) [File]({{ressources}}/syllabus_v1.3.pdf) (winter semester)
@@ -12,6 +13,9 @@ title: Concurrent Programming 1 & 2
 * [**10 Commandments for Concurrent Programming**](/Organization/commandments) [File]({{ressources}}/commandments.pdf)
 
 ## Lectures Slides
+<details>
+<summary>Winter semester</summary>
+
 * [**Basics**]({{concurp1_url}}/01) (WIP)
 * [**Shared Variables - TestAndSet**]({{concurp1_url}}/02) (WIP)
 * [**Semaphores**]({{concurp1_url}}/03) (WIP)
@@ -23,9 +27,17 @@ title: Concurrent Programming 1 & 2
 * [**Monitors - Synchronization techniques**]({{concurp1_url}}/09)
 * [**Monitors in Java - Sleeping barber**]({{concurp1_url}}/10)
 * [**Pthreads**]({{concurp1_url}}/11)
-* [**Ops and Caps**]({{concupr2_url}}/01)
+</details>
+<details open>
+<summary>Spring semester</summary>
+
+* [**Ops and Caps**]({{ressources_spring}}/Ops_and_Capabilities)
+</details>
 
 ## Lectures Ressources
+<details>
+<summary>Winter semester</summary>
+
 * [**Basics**]({{ressources}}/01-basics.pdf)
 * [**Shared Variables**]({{ressources}}/02-shared_variables-TST.pdf)
 * [**Semaphores**]({{ressources}}/03-semaphores.pdf)
@@ -37,6 +49,13 @@ title: Concurrent Programming 1 & 2
 * [**Monitors - Synchronization techniques**]({{ressources}}/08-monitors-sync-tech.pdf)
 * [**Sleeping barber**]({{ressources}}/10-barber_monitor.pdf)
 * [**Pthreads**]({{ressources}}/11-pthreads.pdf)
+
+</details>
+<details open>
+<summary>Spring semester</summary>
+
+* [**Ops and caps**]({{ressources_spring}}/040-ops-and-Capabilities.pdf)
+</details>
 
 ## Practical Work - Labs
 * [Lab1 - **Magrathea**](/TPs/Magrathea)
