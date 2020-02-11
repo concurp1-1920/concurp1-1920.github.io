@@ -3,10 +3,12 @@ layout: default
 title: Concurrent Programming 1
 ---
 {% assign concurp1_url = "http://concurp1-1920.github.io/slides" %}
+{% assign concurp2_url = "http://concurp1-1920.github.io/slides_spring" %}
 {% assign ressources = "/assets/ressources" %}
 
 ## Organization
-* [**Syllabus**](/Organization/syllabus) [File]({{ressources}}/syllabus_v1.3.pdf)
+* [**Syllabus**](/Organization/syllabus) [File]({{ressources}}/syllabus_v1.3.pdf) (winter semester)
+* [**Syllabus**](/Organization/syllabus_spring) [File]({{ressources}}/syllabus_v1.3.pdf) (spring semester)
 * [**10 Commandments for Concurrent Programming**](/Organization/commandments) [File]({{ressources}}/commandments.pdf)
 
 ## Lectures Slides
@@ -21,6 +23,7 @@ title: Concurrent Programming 1
 * [**Monitors - Synchronization techniques**]({{concurp1_url}}/09)
 * [**Monitors in Java - Sleeping barber**]({{concurp1_url}}/10)
 * [**Pthreads**]({{concurp1_url}}/11)
+* [**Ops and Caps**]({{concupr2_url}}/01)
 
 ## Lectures Ressources
 * [**Basics**]({{ressources}}/01-basics.pdf)
@@ -36,7 +39,8 @@ title: Concurrent Programming 1
 * [**Pthreads**]({{ressources}}/11-pthreads.pdf)
 
 ## Practical Work - Labs
-* [**Magrathea**](/TPs/Magrathea)
-* [**Magrathea in Java**](/TPs/MagratheaJava)
-* [**Swiss Bank**](/TPs/Bank)
-* [**Swiss Bank Java**](/TPs/BankJava)
+* [Lab1 - **Magrathea**](/TPs/Magrathea)
+* [Lab2 - **Magrathea in Java**](/TPs/MagratheaJava)
+* [Lab3 - **Swiss Bank**](/TPs/Bank)
+* [Lab4 - **Swiss Bank Java**](/TPs/BankJava)
+* [Lab5 - **Zero Library**](/TPs/Zero)
