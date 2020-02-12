@@ -9,12 +9,18 @@ You're asked to write a (JR)library that looks for the real zeros of a function 
 
 
 1) The lower limit from which you start the search for zeros (`double`)
+
 2) The upper limit where the search ends (`double`)
+
 3) The number of intervals to be examined in the upper and lower limits (`int`)
+
 4) The "precision" of your zero (`double`)
+
 5) Bitmask, which selects the function to be displayed. The function will be used if the corresponding _bit_ is _on_ (i.e. the value is 1). By **default**, this parameter is set to 127 (`int`).
 <br>Function f1=1, f2=2, f3=4, f4=8, f5=16, f6=32, f7=64
+
 6) The format to be used for the display of the results, by **default** `%a` (`string`)
+
 
 So, for example, your program could be invoked in the following way (intervall -10 .. 10, 200 steps, 0.001 precision of zero, fun1 & fun2, and output format in ), which would have the result below:
 
@@ -36,7 +42,7 @@ f(1.02779e+00) = -2.00672e-04
 
 **Notes and specifications** :
 
-- One of the public functions of the library is zero, which takes in parameter the following elements: 
+- One of the public functions of the library is `zero`, which takes in parameter the following elements: 
   - `lower limit`
   - `upper limit`
   - `number of intervals`
@@ -44,7 +50,7 @@ f(1.02779e+00) = -2.00672e-04
   -  `search method`
   - `the function for which we would like to find the zeros`
   - `a function provided by your main program that will be called by the library when a zero is detected (call back)`
-- The other public functions are the search algorithms that you will have to implement. It is one of these 2 functions that will be the 5th parameter of the zero function.
+- The other public functions are the search algorithms that you will have to implement. It is one of these 2 functions that will be the 5th parameter of the `zero` function.
 - Your library must be coded in such a way that if you add a function that implements a new search method, this new search method is usable without further modifications to the library!
 - All other functions you would need in your library are private.
 
@@ -66,25 +72,8 @@ fun6: $$\sin(\frac{1}{e^{x^{2}+2x-2}})$$
 
 fun7: $$e^{\sin(x)}-\frac{\sin(x)}{e^{\sin(x)}}-1$$
 
-
+You are, of course, free to implement other functions to test your program. These "debug" functions are only calculated if their "bit" is "on".
 
 **Functions to implement** :
 
-
-
-Note: Your program will be invoked via `java` - make sure you test with these commands. You
-must have a class called `Bank` in a file called `Bank.java`.
-
-
-**Examples of invocation** :
-- `java Bank`
-- `java Bank 0`
-- `java Bank 101 43 1`
-- `java Bank 100 10 10 0.0 10 10`
-- `java Bank 101 43 37 0.41 17 29`
-- `java Bank 101 43 37 0.41 17 29 NF`
-- `java Bank 1000 100 1 1.0 10 1`
-
-The date and time of submission via **CVS** is :
-- For the class **I2a** : 24.01.2020 at 8:00.
-- For the classes **I2b** and **I2d** : 22.01.2020 at 8:00.
+Your library is called **`ZeroLib`**.  Your main class is called **`ZeroTest`**.  These 2 classes are in **separate files**.  The final version of your code must be in CVS before Friday March 6 2020, 12:00.
