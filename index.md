@@ -24,7 +24,7 @@ title: Concurrent Programming 1 & 2
 * [**Monitors - Synchronization techniques**]({{concurp1_url}}/09)
 * [**Monitors in Java - Sleeping barber**]({{concurp1_url}}/10)
 * [**Pthreads**]({{concurp1_url}}/11)
-* [**Ops and Caps**]({{ressources_spring}}/Ops_and_Capabilities)
+* [**Ops and Caps**]({{ressources_spring}}/Ops_and_Capabilities.pdf)
 
 
 ## Lectures Ressources
