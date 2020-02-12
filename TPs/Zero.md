@@ -50,19 +50,21 @@ f(1.02779e+00) = -2.00672e-04
 
 
 
-f1: $$xe^{x}-1$$
+**Functions to implement** :
 
-f2: $$(x^2 - \sqrt{2})e^{x}+1$$
+fun1: $$xe^{x}-1$$
 
-f3: $$\sin(\frac{x}{2})+\frac{\cos(\frac{x}{4})}{2}$$
+fun2: $$(x^2 - \sqrt{2})e^{x}+1$$
 
-f4: $$(x^2-\pi^2)(x^2-(\frac{355}{113})^2)-(x^2-(\frac{484}{49}))(x^2-(\sqrt{2}+\sqrt{3})^2)$$
+fun3: $$\sin(\frac{x}{2})+\frac{\cos(\frac{x}{4})}{2}$$
 
-f5: $$x^5-(\frac{5}{2}+\sqrt{2}+\sqrt{26})x^4+(\frac{5}{2}(\sqrt{2}+\sqrt{26})-11+2\sqrt{13})x^3-(\frac{15}{2}-11(\sqrt{2}+\sqrt{26})+5\sqrt{13})x^2+(\frac{15}{2}(\sqrt{2}+\sqrt{26})-22\sqrt{13})x-15\sqrt{13}$$
+fun4: $$(x^2-\pi^2)(x^2-(\frac{355}{113})^2)-(x^2-(\frac{484}{49}))(x^2-(\sqrt{2}+\sqrt{3})^2)$$
 
-f6: $$\sin(\frac{1}{e^{x^{2}+2x-2}})$$
+fun5: $$x^5-(\frac{5}{2}+\sqrt{2}+\sqrt{26})x^4+(\frac{5}{2}(\sqrt{2}+\sqrt{26})-11+2\sqrt{13})x^3-(\frac{15}{2}-11(\sqrt{2}+\sqrt{26})+5\sqrt{13})x^2+(\frac{15}{2}(\sqrt{2}+\sqrt{26})-22\sqrt{13})x-15\sqrt{13}$$
 
-f7: $$e^{\sin(x)}-\frac{\sin(x)}{e^{\sin(x)}}-1$$
+fun6: $$\sin(\frac{1}{e^{x^{2}+2x-2}})$$
+
+fun7: $$e^{\sin(x)}-\frac{\sin(x)}{e^{\sin(x)}}-1$$
 
 
 
