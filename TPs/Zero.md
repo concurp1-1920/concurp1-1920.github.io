@@ -60,7 +60,7 @@ f(1.02779e+00) = -2.00672e-04
 
 fun1: $$xe^{x}-1$$
 
-fun2: $$(x^2 - \sqrt{2})e^{x}+1$$  [Example](https://www.wolframcloud.com/objects/dcae3828-04a3-4395-ba02-8ef05e2f01fb)
+fun2: $$(x^2 - \sqrt{2})e^{x}+1$$   ([Example](https://www.wolframcloud.com/objects/dcae3828-04a3-4395-ba02-8ef05e2f01fb) )
 
 fun3: $$\sin(\frac{x}{2})+\frac{\cos(\frac{x}{4})}{2}$$
 
