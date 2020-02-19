@@ -22,7 +22,7 @@ You're asked to write a (JR)library that looks for the real zeros of a function 
 6) The format to be used for the display of the results, by **default** `%a` (`string`)
 
 
-So, for example, your program could be invoked in the following way (intervall -10 .. 10, 200 steps, 0.001 precision of zero, fun1 & fun2, and output format in ), which would have the result below:
+So, for example, your program could be invoked in the following way (intervall -10 .. 10, 200 steps, 0.001 precision of zero, fun1 & fun2, and output format in %1.5e), which would have the result below:
 
 ```bash
 $ jrgo -10 10 200 0.001 3 %1.5e
