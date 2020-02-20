@@ -2,14 +2,14 @@
 layout: default
 title: Concurrent Programming 2
 ---
-<!--
+
 ## Instructors
 
 | Michael Mäder                         | 
 | ------------------------------------- |
 | Office C10.09                         |
 | [mail](mailto:michael.maeder@hefr.ch) |
--->
+
 
 ## Recommended Books :
 
