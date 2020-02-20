@@ -8,7 +8,7 @@ title: Concurrent Programming 2
 | Michael Mäder                         | 
 | ------------------------------------- |
 | Office C10.09                         |
-| [mail](mailto:michael.maeder@hefr.ch) |
+| [michael.maeder@hefr.ch](mailto:michael.maeder@hefr.ch) |
 
 
 ## Recommended Books :
