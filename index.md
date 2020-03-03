@@ -25,6 +25,7 @@ title: Concurrent Programming 1 & 2
 * [**Monitors in Java - Sleeping barber**]({{concurp1_url}}/10)
 * [**Pthreads**]({{concurp1_url}}/11)
 * [**Ops and Caps**]({{ressources_spring}}/Ops_and_Capabilities.pdf)
+* [**Asyncrhonous message passing**]({{ressources_spring}}/Slides_Async_Message_Passing.pdf)
 
 
 ## Lectures Ressources
@@ -40,7 +41,7 @@ title: Concurrent Programming 1 & 2
 * [**Sleeping barber**]({{ressources}}/10-barber_monitor.pdf)
 * [**Pthreads**]({{ressources}}/11-pthreads.pdf)
 * [**Ops and caps**]({{ressources_spring}}/040-ops-and-Capabilities.pdf)
-
+* [**Asyncrhonous message passing**]({{ressources_spring}}/050-async-msg-passing.pdf)
 
 ## Practical Work - Labs
 * [Lab1 - **Magrathea**](/TPs/Magrathea)
