@@ -76,4 +76,4 @@ You are, of course, free to implement other functions to test your program. Thes
 
 **Functions to implement** :
 
-Your library is called **`ZeroLib`**.  Your main class is called **`ZeroTest`**.  These 2 classes are in **separate files**.  The final version of your code must be in CVS before Friday March 6 2020, 12:00.
+Your library is called **`ZeroLib`**.  Your main class is called **`ZeroTest`**.  These 2 classes are in **separate files**.  The final version of your code must be in CVS before Friday March 6 2020, 23:59.
