@@ -52,4 +52,4 @@ title: Concurrent Programming 1 & 2
 * [Lab4 - **Swiss Bank Java**](/TPs/BankJava)
 * [Lab5 - **Zero Library**](/TPs/Zero)
 * [Preparing VM for distributed labs]({{ressources_spring}}/054_virtual_machines.pdf)
-* [Lab6 - **Print Server**](2Printer)
+* [Lab6 - **Data Server**](/TPs/2Printer)
