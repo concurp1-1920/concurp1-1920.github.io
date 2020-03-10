@@ -43,7 +43,7 @@ title: Concurrent Programming 1 & 2
 * [**Pthreads**]({{ressources}}/11-pthreads.pdf)
 * [**Ops and caps**]({{ressources_spring}}/040-ops-and-Capabilities.pdf)
 * [**Asyncrhonous message passing**]({{ressources_spring}}/050-async-msg-passing.pdf)
-* [**Monitor to Servers - Active Servers**]({{ressources_spring}}/052-monitors_as_servers_jr)
+* [**Monitor to Servers - Active Servers**]({{ressources_spring}}/052-monitors_as_servers_jr.pdf)
 
 ## Practical Work - Labs
 * [Lab1 - **Magrathea**](/TPs/Magrathea)
