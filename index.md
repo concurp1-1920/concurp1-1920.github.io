@@ -26,6 +26,7 @@ title: Concurrent Programming 1 & 2
 * [**Pthreads**]({{concurp1_url}}/11)
 * [**Ops and Caps**]({{ressources_spring}}/Ops_and_Capabilities.pdf)
 * [**Asyncrhonous message passing**]({{ressources_spring}}/Slides_Async_Message_Passing.pdf)
+* [**Monitor to Servers - Active Servers**]({{ressources_spring}}/Slides_Active_Monitors.pdf)
 
 
 ## Lectures Ressources
@@ -42,6 +43,7 @@ title: Concurrent Programming 1 & 2
 * [**Pthreads**]({{ressources}}/11-pthreads.pdf)
 * [**Ops and caps**]({{ressources_spring}}/040-ops-and-Capabilities.pdf)
 * [**Asyncrhonous message passing**]({{ressources_spring}}/050-async-msg-passing.pdf)
+* [**Monitor to Servers - Active Servers**]({{ressources_spring}}/052-monitors_as_servers_jr)
 
 ## Practical Work - Labs
 * [Lab1 - **Magrathea**](/TPs/Magrathea)
