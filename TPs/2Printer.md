@@ -5,7 +5,7 @@ title: Concurrent Programming 2
 
 # Lab5 : Data Center (Asyncrhonous Message passing)
 
-A computer center has two printers, A and B, that are similar but not identical. Three kinds of client processes use the printers: those that must use printer A, those who must use printer B, and those who can use either A or B. All synchronizing and communication is done via `send` and `receive`.
+A computer center has two printers, A and B, that are similar but not identical. Three kinds of client processes use the printers: those that must use printer A, those who must use printer B, and those who can use either A or B. All synchronizing and communication is done via asynchronous message passing (`send` and `receive`).
 
 A client needing a printer sends a request to an allocation server, who sends the next possible available printer to the client; the client then "prints"  its file to the printer by calling the printer's "print" method (**one line at a time**); a message is sent to the server when printing is completed. The client waits randomly before attempting to print the next file.
 
@@ -13,18 +13,18 @@ The program will be invoked as follows:
 ```bash
 jrgo <client parameters> <file parameters> <machine parameters>
 ````
-where client parameters are, in order
+where `client parameters` are, in order
 
 * `nb_ClientA`:  the number of users that must use printer A  (default value: 19)
 * `nb_ClientB`:  the number of users that must use printer B  (default value: 13)
 * `nb_ClientAB`: the number of users that can use either A or B  (default value: 29)
 
-file parameters are, in order
+`file parameters` are, in order
 
 * `nb_files`: the maximum number of files that a client will print.  A client randomly picks a number between 1 and nb_files (inclusive) which will be the number of files that a client will print (default value: 11)
 * `nb_lines`:  the maximum number of "lines" a file has.  For each file, a client selects a number randomly between 1 and nb_lines (inclusive) to send to the printer for printing (default value: 43)
 
-machine parameters are, in order
+`machine parameters` are, in order
 
 * `mach_Server`: the location of the machine where the server is located (default: localhost)
 * `mach_PA`:     the location of the machine where printer A is located (default: localhost)
