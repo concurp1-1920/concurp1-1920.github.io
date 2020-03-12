@@ -3,7 +3,7 @@ layout: default
 title: Concurrent Programming 2
 ---
 
-# Lab5 : Data Center (Asyncrhonous Message passing)
+# Lab6 : Data Center (Asyncrhonous Message passing)
 
 A computer center has two printers, A and B, that are similar but not identical. Three kinds of client processes use the printers: those that must use printer A, those who must use printer B, and those who can use either A or B. All synchronizing and communication is done via asynchronous message passing (`send` and `receive`).
 
