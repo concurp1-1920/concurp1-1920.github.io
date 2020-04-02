@@ -58,4 +58,4 @@ There will be 2 development stages:  in stage 1 there are no virtual machines, a
 
 About the data structures you will be using:  if you want to use "special" data structures or containers in your program (other than the basic data types and arrays), I will want a comment justifying how the use of  the data structure is necessary as opposed to a simple array. 
 
-Your program must be checked latest on April 9th, 2020.
+Your program must be checked latest on April 16th, 2020 at 23:59.
