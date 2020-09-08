@@ -1,3 +1,4 @@
+# this page is deprecated, all is now on the local gitlab infrastructure at HEIA-FR
 ---
 layout: default
 title: Concurrent Programming 1 & 2
